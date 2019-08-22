@@ -4,7 +4,7 @@ Arduino based LED klobouk
 
 Written in arduino 1.8
 
-Using Adafruit libs
+Using Adafruit libs: https://github.com/adafruit/Adafruit_NeoPixel
 
 TODO: 
 - Code refactor
